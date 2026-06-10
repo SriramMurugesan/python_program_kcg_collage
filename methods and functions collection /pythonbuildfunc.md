@@ -1,15 +1,15 @@
-Most Important Built-in Functions
-🔹 Type & Conversion
+# Most Important Built-in Functions
+## Type & Conversion
 int(), float(), str(), bool(), list(), tuple(), set(), dict()
-🔹 Math & Numbers
+## Math & Numbers
 abs(), round(), pow(), min(), max(), sum()
-🔹 Iteration & Logic
+## Iteration & Logic
 len(), range(), enumerate(), zip(), sorted(), reversed()
-🔹 Functional Programming
+## Functional Programming
 map(), filter(), any(), all()
-🔹 Input/Output
+## Input/Output
 print(), input()
-🔹 Object & Memory
+## Object & Memory
 type(), id(), isinstance(), dir()
-🔹 Advanced
+## Advanced
 eval(), exec(), compile(), hasattr(), getattr(), setattr()
