@@ -48,3 +48,12 @@
 # print(d.values())
 # print(d.items())
 
+l=["dog","cat","hyena","lions","cheetah"]
+dict={}
+for i in l:
+    if len(i) in dict:
+        dict[len(i)].append(i)
+    else:
+        dict[len(i)]=[i]
+print(dict)
+
